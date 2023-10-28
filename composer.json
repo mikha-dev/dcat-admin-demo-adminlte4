@@ -1,5 +1,5 @@
 {
-    "name": "mikha-dev/dcat-admin-demo-adminlte4",
+    "name": "mikha-dev/dcat-admin-demo-sneat",
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": [
@@ -18,7 +18,7 @@
     "require": {
         "php": "^8.1",
         "fzaninotto/faker": "^1.5",
-        "mikha-dev/dcat-admin": "dev-adminlte4",
+        "mikha-dev/dcat-admin": "dev-sneat",
         "laravel/framework": "^10.0",
         "laravel/tinker": "^2.6"
     },
