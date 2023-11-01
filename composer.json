@@ -10,15 +10,15 @@
     "license": "MIT",
     "repositories": [
         {
-            "type": "git",
-            "url": "https://github.com/mikha-dev/dcat-admin.git",
+            "type": "path",
+            "url": "../dcat-admin",
             "canonical": false
         }
     ],
     "require": {
         "php": "^8.1",
         "fzaninotto/faker": "^1.5",
-        "mikha-dev/dcat-admin": "dev-sneat",
+        "mikha-dev/dcat-admin": "*",
         "laravel/framework": "^10.0",
         "laravel/tinker": "^2.6"
     },
